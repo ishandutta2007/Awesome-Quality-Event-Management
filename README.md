@@ -6,18 +6,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-| Product | Description | Pricing | Free Tier Limit |
-|---------|-------------|---------|-----------------|
-| **[MasterControl](https://www.mastercontrol.com/)** | Comprehensive cloud QMS for life sciences with strong document control, training, CAPA, and audit management. Widely used in regulated manufacturing. | Custom / Contact Sales | None |
-| **[Sparta TrackWise / TrackWise Digital](https://www.spartasystems.com/)** | Enterprise quality and compliance platform focused on CAPA, deviations, complaints, and audit trails (now under larger portfolios). | Custom / Contact Sales | None |
-| **[ETQ Reliance](https://www.etq.com/)** (also referred to as Octave Reliance) | Highly configurable no-code quality management platform with extensive workflow automation and EHS extensions. | Custom / Contact Sales | None |
-| **[Qualio](https://www.qualio.com/)** | Modern cloud QMS popular with life sciences and SaMD teams, emphasizing document control, training, and AI-assisted compliance. | Custom / Contact Sales | None |
-| **[Greenlight Guru](https://www.greenlight.guru/)** | Purpose-built eQMS for medical device companies with design controls, risk management, and audit readiness features. | Custom / Contact Sales | None |
-| **[ComplianceQuest](https://www.compliancequest.com/)** | Salesforce-native quality and compliance platform covering CAPA, audits, document control, and supplier quality. | Custom / Contact Sales | None |
-| **[QT9 QMS](https://qt9software.com/)** | Modular web-based QMS supporting ISO and FDA compliance with electronic signatures and workflow automation. | Custom / Contact Sales | None |
-| **[AssurX](https://www.assurx.com/)** | Enterprise quality management and compliance software with strong CAPA, complaint handling, and audit capabilities. | Custom / Contact Sales | None |
-| **[Ideagen QMS](https://www.ideagen.com/)** | Quality and compliance suite used across regulated industries for document control, audits, and risk. | Custom / Contact Sales | None |
-| **[Honeywell Forge QMS](https://www.honeywell.com/)** | Industrial quality management solution integrated with Honeywell’s broader operations and manufacturing platforms. | Custom / Contact Sales | None |
+| Product | Description | Pricing | Free Tier Limit | Company Size |
+|---------|-------------|---------|-----------------|--------------|
+| **[Honeywell Forge QMS](https://www.honeywell.com/)** | Industrial quality management solution integrated with Honeywell’s broader operations and manufacturing platforms. | Custom / Contact Sales | None | ~$36B Revenue |
+| **[ETQ Reliance](https://www.etq.com/)** (also referred to as Octave Reliance) | Highly configurable no-code quality management platform with extensive workflow automation and EHS extensions. | Custom / Contact Sales | None | ~$5B Revenue (Hexagon) |
+| **[MasterControl](https://www.mastercontrol.com/)** | Comprehensive cloud QMS for life sciences with strong document control, training, CAPA, and audit management. Widely used in regulated manufacturing. | Custom / Contact Sales | None | >$1B Valuation |
+| **[Ideagen QMS](https://www.ideagen.com/)** | Quality and compliance suite used across regulated industries for document control, audits, and risk. | Custom / Contact Sales | None | >$1B Valuation |
+| **[Sparta TrackWise / TrackWise Digital](https://www.spartasystems.com/)** | Enterprise quality and compliance platform focused on CAPA, deviations, complaints, and audit trails (now under larger portfolios). | Custom / Contact Sales | None | $1.3B Acquired |
+| **[Greenlight Guru](https://www.greenlight.guru/)** | Purpose-built eQMS for medical device companies with design controls, risk management, and audit readiness features. | Custom / Contact Sales | None | >$100M ARR |
+| **[ComplianceQuest](https://www.compliancequest.com/)** | Salesforce-native quality and compliance platform covering CAPA, audits, document control, and supplier quality. | Custom / Contact Sales | None | ~$100M+ Valuation |
+| **[Qualio](https://www.qualio.com/)** | Modern cloud QMS popular with life sciences and SaMD teams, emphasizing document control, training, and AI-assisted compliance. | Custom / Contact Sales | None | ~$100M+ Valuation |
+| **[AssurX](https://www.assurx.com/)** | Enterprise quality management and compliance software with strong CAPA, complaint handling, and audit capabilities. | Custom / Contact Sales | None | ~$50M Valuation |
+| **[QT9 QMS](https://qt9software.com/)** | Modular web-based QMS supporting ISO and FDA compliance with electronic signatures and workflow automation. | Custom / Contact Sales | None | <$20M Valuation |
 
 ## 🔓 Open-Source Software
 
