@@ -1,5 +1,8 @@
 # Awesome-Quality-Event-Management
 
+<!-- Keywords: QMS, CAPA, Quality Management System, Open Source QMS, Compliance, ISO 13485, Part 11 -->
+
+
 <div align="center">
 <img src="./assets/banner.svg" alt="Banner">
 </div>
