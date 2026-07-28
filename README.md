@@ -1,5 +1,10 @@
 # Awesome-Quality-Event-Management
 
+<div align="center">
+<img src="./assets/banner.svg" alt="Banner">
+</div>
+
+
 **Quality Management System (QMS)** / Quality Event Management platforms handle document control, CAPA (Corrective and Preventive Action), nonconformances, deviations, audits, training, risk management, change control, and regulatory compliance (ISO 13485, 21 CFR Part 11, GxP, etc.). Leading commercial tools include MasterControl, Sparta TrackWise, ETQ Reliance, Qualio, Greenlight Guru, ComplianceQuest, QT9, AssurX, Ideagen QMS, and Honeywell Forge QMS.
 
 Below is a **curated list** of notable platforms and their open-source equivalents. Fully validated enterprise eQMS solutions are rare in pure open source, so the emphasis is on practical open-source tools for CAPA, document control, audits, GRC, and quality workflows that organizations can self-host and extend.
